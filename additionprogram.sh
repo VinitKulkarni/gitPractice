@@ -8,4 +8,4 @@ read num2
 
 result=$((num1+num2))
 
-echo $result
+echo "addition = "$result
